@@ -1,20 +1,17 @@
 <h1 align="center">Hi, I'm Magdalena 👋</h1>
-
-<h3 align="center">Senior QA Test Engineer with hands-on manual testing expertise and a Java background, now transitioning into test automation — building production-style frameworks from real testing experience, not from scratch</h3>
-
 <h3 align="center">Senior QA Test Engineer · Currently leveling up into Test Automation — Java · TypeScript · Playwright · Selenium · REST Assured · Python</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-21-orange?logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cucumber-BDD-23D96C?logo=cucumber&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_Assured-API_Testing-25A162" />
-  <img src="https://img.shields.io/badge/Allure-Reporting-FF6E0E" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF?logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-containerized-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-21-1B4332?logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-48CAE4?logo=typescript&logoColor=1B4332" />
+  <img src="https://img.shields.io/badge/Python-3.12-9D4EDD?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-1B4332?logo=playwright&logoColor=48CAE4" />
+  <img src="https://img.shields.io/badge/Selenium-9D4EDD?logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cucumber-BDD-48CAE4?logo=cucumber&logoColor=1B4332" />
+  <img src="https://img.shields.io/badge/REST_Assured-API_Testing-1B4332?logoColor=white" />
+  <img src="https://img.shields.io/badge/Allure-Reporting-9D4EDD?logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-CI%2FCD-48CAE4?logo=githubactions&logoColor=1B4332" />
+  <img src="https://img.shields.io/badge/Docker-containerized-1B4332?logo=docker&logoColor=48CAE4" />
 </p>
 
 As a Senior QA, I'm now building hands-on automation skills through real-world style frameworks — Page Object Model, BDD with Cucumber, API testing, CI/CD pipelines, and live Allure dashboards published to GitHub Pages. Every project below ships with a real, working CI pipeline you can click into.
@@ -50,6 +47,13 @@ graph TD
     DATA --> ALLURE
     ALLURE --> CI["⚙️ GitHub Actions CI/CD"]
     CI --> PAGES["🌐 GitHub Pages — Live Dashboards"]
+
+    style UI fill:#48CAE4,stroke:#1B4332,color:#1B4332
+    style API fill:#9D4EDD,stroke:#1B4332,color:#ffffff
+    style DATA fill:#1B4332,stroke:#9D4EDD,color:#ffffff
+    style ALLURE fill:#9D4EDD,stroke:#1B4332,color:#ffffff
+    style CI fill:#48CAE4,stroke:#1B4332,color:#1B4332
+    style PAGES fill:#1B4332,stroke:#48CAE4,color:#ffffff
 ```
 
 **Shared principles across every project:** Page Object Model · clean separation of assertions from page logic · tagged test suites (`@smoke` / `@regression`) · CI on every push/PR · Allure reporting with screenshot-on-failure · published live reports.
@@ -83,6 +87,8 @@ graph TD
 ## 📫 Get in touch
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE">https://www.linkedin.com/in/magdalena-ukleja-qa/<img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR-EMAIL@example.com">magdalena.ukleja@gmail.com<img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/magdalena-ukleja-qa/"><img src="https://img.shields.io/badge/LinkedIn-1B4332?logo=linkedin&logoColor=48CAE4" /></a>
+  <a href="mailto:magdalena.ukleja@gmail.com"><img src="https://img.shields.io/badge/Email-9D4EDD?logo=gmail&logoColor=white" /></a>
 </p>
+
+🔗 [linkedin.com/in/magdalena-ukleja-qa](https://www.linkedin.com/in/magdalena-ukleja-qa/) · 📧 [magdalena.ukleja@gmail.com](mailto:magdalena.ukleja@gmail.com)
