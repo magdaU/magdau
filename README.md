@@ -1,4 +1,7 @@
 <h1 align="center">Hi, I'm Magdalena 👋</h1>
+
+<h3 align="center">Senior QA Test Engineer with hands-on manual testing expertise and a Java background, now transitioning into test automation — building production-style frameworks from real testing experience, not from scratch</h3>
+
 <h3 align="center">Senior QA Test Engineer · Currently leveling up into Test Automation — Java · TypeScript · Playwright · Selenium · REST Assured · Python</h3>
 
 <p align="center">
