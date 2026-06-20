@@ -90,5 +90,3 @@ graph TD
   <a href="https://www.linkedin.com/in/magdalena-ukleja-qa/"><img src="https://img.shields.io/badge/LinkedIn-1B4332?logo=linkedin&logoColor=48CAE4" /></a>  
   <a href="https://www.adaaiplus.com/"><img src="https://img.shields.io/badge/Website-9D4EDD?logo=googlechrome&logoColor=white" /></a>
 </p>
-
-🔗 [linkedin.com/in/magdalena-ukleja-qa](https://www.linkedin.com/in/magdalena-ukleja-qa/) · 📧 [magdalena.ukleja@gmail.com](mailto:magdalena.ukleja@gmail.com)
