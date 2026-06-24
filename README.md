@@ -68,7 +68,7 @@ graph TD
 | **[playwright-typescript-dulux-uk](https://github.com/magdaU/playwright-typescript-dulux-uk)** | TypeScript · Playwright Test · Allure · Docker | Same Dulux journeys in TS — API setup checks, trace viewer, parallel execution | [🔗 Allure](https://magdau.github.io/playwright-typescript-dulux-uk/) |
 | **[ui-test-cucumber-ikea-dk](https://github.com/magdaU/ui-test-cucumber-ikea-dk)** | Java · Selenium · Cucumber · Spring Boot | UI e2e on ikea.com/dk — product search & pricing flows | Allure generated locally |
 | **[restAssured-test-with-extends](https://github.com/magdaU/restAssured-test-with-extends)** | Java · REST Assured · JUnit4 | API testing — CRUD, schema validation (JSON/XML), negative & parameterized tests | [🔗 Allure](https://magdau.github.io/restAssured-test-with-extends/) |
-| **[python-matplotlib-statistics-dk](https://github.com/magdaU/python-matplotlib-statistics-dk)** | Python · pytest · matplotlib · Plotly | Data quality, regression & domain-logic testing on real demographic data | [🔗 Allure](https://magdau.github.io/python-matplotlib-statistics-dk/) |
+| **[python-matplotlib-statistics-dk](https://github.com/magdaU/python-matplotlib-statistics-dk)** | Python · pytest · matplotlib · Plotly | Data quality, regression & domain-logic testing on real demographic data | [🔗 Allure](https://magdau.github.io/python-matplotlib-statistics-dk/) · [📊 Coverage](https://magdau.github.io/python-matplotlib-statistics-dk/coverage/) |
 
 ---
 
