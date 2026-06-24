@@ -28,8 +28,8 @@ graph TD
         direction TB
 
         subgraph UI["🖥️ UI End-to-End Testing"]
-            P1["playwright-e2e-test-dulux<br/>Java · Playwright · Cucumber BDD"]
-            P2["playwright-ts-dulux<br/>TypeScript · Playwright Test"]
+            P1["playwright-java-dulux-uk<br/>Java · Playwright · Cucumber BDD"]
+            P2["playwright-typescript-dulux-uk<br/>TypeScript · Playwright Test"]
             P3["ui-test-cucumber-ikea-dk<br/>Java · Selenium · Cucumber"]
         end
 
@@ -38,7 +38,7 @@ graph TD
         end
 
         subgraph DATA["📊 Data Quality & Analysis Testing"]
-            P5["danish-population-stats<br/>Python · pytest · matplotlib/Plotly"]
+            P5["python-matplotlib-statistics-dk<br/>Python · pytest · matplotlib/Plotly"]
         end
     end
 
@@ -64,11 +64,11 @@ graph TD
 
 | Project | Stack | What it tests | Live Report |
 |---|---|---|---|
-| **[playwright-e2e-test-dulux](https://github.com/magdaU/playwright-e2e-test-dulux)** | Java · Playwright · Cucumber BDD · Allure · Docker | UI e2e on dulux.co.uk — desktop & mobile customer journeys | [🔗 Allure](https://magdau.github.io/playwright-e2e-test-dulux/) |
-| **[playwright-ts-dulux](https://github.com/magdaU/playwright-ts-dulux)** | TypeScript · Playwright Test · Allure · Docker | Same Dulux journeys in TS — API setup checks, trace viewer, parallel execution | [🔗 Allure](https://magdau.github.io/playwright-ts-dulux/) |
+| **[playwright-java-dulux-uk](https://github.com/magdaU/playwright-java-dulux-uk)** | Java · Playwright · Cucumber BDD · Allure · Docker | UI e2e on dulux.co.uk — desktop & mobile customer journeys | [🔗 Allure](https://magdau.github.io/playwright-java-dulux-uk/) |
+| **[playwright-typescript-dulux-uk](https://github.com/magdaU/playwright-typescript-dulux-uk)** | TypeScript · Playwright Test · Allure · Docker | Same Dulux journeys in TS — API setup checks, trace viewer, parallel execution | [🔗 Allure](https://magdau.github.io/playwright-typescript-dulux-uk/) |
 | **[ui-test-cucumber-ikea-dk](https://github.com/magdaU/ui-test-cucumber-ikea-dk)** | Java · Selenium · Cucumber · Spring Boot | UI e2e on ikea.com/dk — product search & pricing flows | Allure generated locally |
 | **[restAssured-test-with-extends](https://github.com/magdaU/restAssured-test-with-extends)** | Java · REST Assured · JUnit4 | API testing — CRUD, schema validation (JSON/XML), negative & parameterized tests | [🔗 Allure](https://magdau.github.io/restAssured-test-with-extends/) |
-| **[danish-population-stats](https://github.com/magdaU/danish-population-stats)** | Python · pytest · matplotlib · Plotly | Data quality, regression & domain-logic testing on real demographic data | [🔗 Allure](https://magdau.github.io/danish-population-stats/) |
+| **[python-matplotlib-statistics-dk](https://github.com/magdaU/python-matplotlib-statistics-dk)** | Python · pytest · matplotlib · Plotly | Data quality, regression & domain-logic testing on real demographic data | [🔗 Allure](https://magdau.github.io/python-matplotlib-statistics-dk/) |
 
 ---
 
