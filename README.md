@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Magdalena 👋</h1>
+<h1 align="center">Hi, I'm Magdalena (Magda) 👋</h1>
 <h3 align="center">Senior QA Test Engineer · Currently leveling up into Test Automation — Java · TypeScript · Playwright · Selenium · REST Assured · Python</h3>
 
 <p align="center">
