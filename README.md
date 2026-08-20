@@ -60,4 +60,6 @@ Interested in QA Automation / Quality Engineering opportunities and projects whe
 
 ### 📫 Connect with me
 
-**LinkedIn:** [https://www.linkedin.com/in/magdalena-ukleja-qa/]
+- 💼 [LinkedIn](https://www.linkedin.com/in/magdalena-ukleja-qa/)
+- 🌐 [Website](https://www.adaaiplus.com/)
+- 🐙 [GitHub](https://github.com/magdaU)
