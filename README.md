@@ -1,7 +1,7 @@
 
 # Hi, I'm Magda 👋
 
-### 👉 [Explore my portfolio](https://magdau.github.io/github-io/)
+[![View My Portfolio](https://img.shields.io/badge/VIEW_MY_PORTFOLIO-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://magdau.github.io/github-io/)
 
 **Senior QA Automation Engineer** based in Aarhus, Denmark 🇩🇰
 
@@ -31,4 +31,3 @@ Currently open to QA Automation Engineer opportunities in Denmark.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/magdalena-ukleja-qa/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/magdaU)
-
