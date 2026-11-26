@@ -1,33 +1,43 @@
 
+<div align="center">
+
 # Hi, I'm Magda 👋
 
-[![View My Portfolio](https://img.shields.io/badge/VIEW_MY_PORTFOLIO-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://magdau.github.io/github-io/)
+### Senior QA Automation Engineer
 
-**Senior QA Automation Engineer** based in Aarhus, Denmark 🇩🇰
+Aarhus, Denmark 🇩🇰
 
-I design and develop automated UI and API tests using Java and Python, integrate them into CI/CD pipelines, and publish test results through Allure Reports.
+UI & API Automation · Java · Python · CI/CD
 
-Business requirements come first: every test should protect something that matters to users and the business.
+<br>
 
-Currently open to QA Automation Engineer opportunities in Denmark.
+<a href="https://magdau.github.io/github-io/">
+  <img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore my portfolio" height="42">
+</a>
 
-## 🛠️ Tech Stack
+<br>
 
-- **Testing:** E2E, smoke, regression, API, integration, performance, security
-- **Languages:** Java, Python, SQL
-- **Tools & Frameworks:** Playwright, Selenium, REST Assured, pytest, Cucumber BDD
-- **CI/CD & Infrastructure:** GitHub Actions, Allure Report, Docker, Kubernetes
-- **Currently learning:** DevOps and AI in testing
+<sub>Explore my projects, automation frameworks and live test reports.</sub>
 
-## 🚀 Featured Projects
+</div>
 
-| Project | Tech Stack | Test Report |
-|---|---|---|
-| [playwright-java-dulux-uk](https://github.com/magdaU/playwright-java-dulux-uk) | Java · Playwright · Cucumber BDD | [Allure Report](https://magdau.github.io/playwright-java-dulux-uk/) |
-| [playwright-python-dulux-uk](https://github.com/magdaU/playwright-python-dulux-uk) | Python · Playwright · pytest-bdd | [Allure Report](https://magdau.github.io/playwright-python-dulux-uk/smoke/) |
-| [eds-python-api-test-automation](https://github.com/magdaU/eds-python-api-test-automation) | Python · pytest · Pydantic | [Allure Report](https://magdau.github.io/eds-python-api-test-automation/) |
+---
 
-## 🤝 Contact
+I build automated UI and API tests with a strong focus on business requirements, software quality and continuous delivery.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/magdalena-ukleja-qa/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/magdaU)
+**Business requirements come first.** Every test should protect something that matters to users and the business.
+
+<div align="center">
+
+*Currently open to QA Automation opportunities in Denmark.*
+
+</div>
+
+---
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/magdalena-ukleja-qa/)
+[![GitHub](https://img.shields.io/badge/GitHub-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/magdaU)
+
+</div>
